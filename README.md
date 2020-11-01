@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiyas 👋
 
 - 🔭 I’m currently working on HireUp
 - 🌟  I'm currently learning TypeScript and React Hooks
