@@ -1,6 +1,5 @@
-### Hiyas 👋
+### Hello 👋
 
-- 🔭 I’m currently working on HireUp
 - 🌟  I'm currently learning TypeScript and React Hooks
 - 👯 I’m looking to collaborate on new languages, JS, React
 - 💬 Ask me about 🌱 🌱 🌱
